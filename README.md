@@ -1,4 +1,9 @@
-# ghostyboat
+# GhostyBoat
+_@TheBoatyMcBoatFace's take on the Ghost Casper theme._
+
+
+**TO-DO:** Update below info
+
 
 The default theme for [Ghost](http://github.com/tryghost/ghost/). This is the latest development version of ghostyboat! If you're just looking to download the latest release, head over to the [releases](https://github.com/TryGhost/ghostyboat/releases) page.
 
